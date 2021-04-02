@@ -1,6 +1,11 @@
 p {
   font-size: 50px;
+  font-family: 'DM Serif Display', serif;
 }
 div {
     margin: 20px;
+}
+
+#stext {
+  font-size: 20px;
 }
