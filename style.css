@@ -14,3 +14,7 @@ div {
 body {
   background: linear-gradient(orange, #fc7d00);
 }
+
+button {
+  border-radius: 66px!important;
+}
