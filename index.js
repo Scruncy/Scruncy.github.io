@@ -14,137 +14,105 @@ function handleClick() {
 function confrontare(buttonClicked) {
   switch (buttonClicked) {
     case "a":
-      var tom1 = new Audio('audio/bravo zozzziiiing.ogg');
-      tom1.play();
+      var tom = new Audio('audio/bravo zozzziiiing.ogg');
       break;
     case "b":
-      var tom3 = new Audio('audio/cazzo dite, cazzo ve ne frega di alberto (feat Cri).ogg');
-      tom3.play();
+      var tom = new Audio('audio/cazzo dite, cazzo ve ne frega di alberto (feat Cri).ogg');
       break;
     case "c":
-      var tom4 = new Audio('audio/che idolo, che stra idolo.ogg');
-      tom4.play();
+      var tom = new Audio('audio/che idolo, che stra idolo.ogg');
       break;
     case "d":
-      var snare = new Audio('audio/chiiiiii.ogg');
-      snare.play();
+      var tom = new Audio('audio/chiiiiii.ogg');
       break;
     case "e":
-      var crash = new Audio('audio/cooooooooosa soft.ogg');
-      crash.play();
+      var tom = new Audio('audio/cooooooooosa soft.ogg');
       break;
     case "f":
-      var crash = new Audio('audio/cooooosa.ogg');
-      crash.play();
+      var tom = new Audio('audio/cooooosa.ogg');
       break;
     case "g":
-      var kick = new Audio('audio/e allora ghe digo va beeeen.ogg');
-      kick.play();
+      var tom = new Audio('audio/e allora ghe digo va beeeen.ogg');
       break;
     case "h":
-      var kick = new Audio('audio/eee alora (con tono interrogratvio).ogg');
-      kick.play();
+      var tom = new Audio('audio/eee alora (con tono interrogratvio).ogg');
       break;
     case "i":
-      var kick = new Audio('audio/eeeeee noooo.ogg');
-      kick.play();
+      var tom = new Audio('audio/eeeeee noooo.ogg');
       break;
     case "l":
-      var kick = new Audio('audio/eh aloooora.ogg');
-      kick.play();
+      var tom = new Audio('audio/eh aloooora.ogg');
       break;
     case "m":
-      var kick = new Audio('audio/eh alora (ritmato).ogg');
-      kick.play();
+      var tom = new Audio('audio/eh alora (ritmato).ogg');
       break;
     case "n":
-      var kick = new Audio('audio/eh ma ddddiiio.ogg');
-      kick.play();
+      var tom = new Audio('audio/eh ma ddddiiio.ogg');
       break;
     case "o":
-      var kick = new Audio('audio/grande fabione è stata una gara emozionante bene così.ogg');
-      kick.play();
+      var tom = new Audio('audio/grande fabione è stata una gara emozionante bene così.ogg');
       break;
     case "p":
-      var tom1 = new Audio('audio/grande fabione mi hai fatto emozionare.ogg');
-      tom1.play();
+      var tom = new Audio('audio/grande fabione mi hai fatto emozionare.ogg');
       break;
     case "q":
-      var tom3 = new Audio('audio/HAHAHA.ogg');
-      tom3.play();
+      var tom = new Audio('audio/HAHAHA.ogg');
       break;
     case "r":
-      var tom4 = new Audio('audio/ma che minghia dici.ogg');
-      tom4.play();
+      var tom = new Audio('audio/ma che minghia dici.ogg');
       break;
     case "s":
-      var snare = new Audio('audio/ma no è fattuale.ogg');
-      snare.play();
+      var tom = new Audio('audio/ma no è fattuale.ogg');
       break;
     case "t":
-      var crash = new Audio('audio/ma nonononono.ogg');
-      crash.play();
+      var tom = new Audio('audio/ma nonononono.ogg');
       break;
     case "u":
-      var crash = new Audio('audio/medio a 302 va beeeen.ogg');
-      crash.play();
+      var tom = new Audio('audio/medio a 302 va beeeen.ogg');
       break;
     case "v":
-      var kick = new Audio('audio/mhhh nooooo.ogg');
-      kick.play();
+      var tom = new Audio('audio/mhhh nooooo.ogg');
       break;
     case "z":
-      var kick = new Audio('audio/negro.mpeg');
-      kick.play();
+      var tom = new Audio('audio/negro.mpeg');
       break;
     case "aa":
-      var kick = new Audio('audio/non pianzeeer.ogg');
-      kick.play();
+      var tom = new Audio('audio/non pianzeeer.ogg');
       break;
     case "bb":
-      var kick = new Audio('audio/o fa 2840 o fa 3 volte i 3000.ogg');
-      kick.play();
+      var tom = new Audio('audio/o fa 2840 o fa 3 volte i 3000.ogg');
       break;
     case "cc":
-      var kick = new Audio('audio/o siiiiii.ogg');
-      kick.play();
+      var tom = new Audio('audio/o siiiiii.ogg');
       break;
     case "dd":
-      var kick = new Audio('audio/oh cazzo, oh cazzo.ogg');
-      kick.play();
+      var tom = new Audio('audio/oh cazzo, oh cazzo.ogg');
       break;
     case "ee":
-      var kick = new Audio('audio/Pensa fare i 1500 piuttosto che i 600 va beeen.ogg');
-      kick.play();
+      var tom = new Audio('audio/Pensa fare i 1500 piuttosto che i 600 va beeen.ogg');
       break;
     case "ff":
-      var crash = new Audio('audio/se rispondete a robi fatti i cazzi tuoi vi do un premio.ogg');
-      crash.play();
+      var tom = new Audio('audio/se rispondete a robi fatti i cazzi tuoi vi do un premio.ogg');
       break;
     case "gg":
-      var kick = new Audio('audio/sei proprio un coreon davide, adesso falli.ogg');
-      kick.play();
+      var tom = new Audio('audio/sei proprio un coreon davide, adesso falli.ogg');
       break;
     case "hh":
-      var kick = new Audio('audio/te prego amore non pianzeeer.ogg');
-      kick.play();
+      var tom = new Audio('audio/te prego amore non pianzeeer.ogg');
       break;
     case "ii":
-      var kick = new Audio('audio/va beeeen (più moderato).ogg');
-      kick.play();
+      var tom = new Audio('audio/va beeeen (più moderato).ogg');
       break;
     case "ll":
-      var kick = new Audio('audio/Va beeeen.ogg');
-      kick.play();
+      var tom = new Audio('audio/Va beeeen.ogg');
       break;
     case "mm":
-      var kick = new Audio('audio/va beeen, più corto è piu forte.ogg');
-      kick.play();
+      var tom = new Audio('audio/va beeen, più corto è piu forte.ogg');
       break;
     case "nn":
-      var kick = new Audio('audio/va ben.ogg');
-      kick.play();
+      var tom = new Audio('audio/va ben.ogg');
       break;
-
   }
+  tom.autoplay = true; // add this
+  tom.play();
 }
