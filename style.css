@@ -3,7 +3,8 @@ p {
   font-family: 'DM Serif Display', serif;
 }
 div {
-    margin: 20px;
+    margin-top: 30px;
+    margin-bottom:30px;
 }
 
 #stext {
