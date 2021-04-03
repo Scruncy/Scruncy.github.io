@@ -1,13 +1,13 @@
+
+const sound = document.querySelector('audio');
+
 for (var c = 0; c < document.querySelectorAll("button").length; c++) {
   document.querySelectorAll("button")[c].addEventListener("click", handleClick);
 }
 
-function suona(evento) {
-  confrontare(evento.key);
-}
-
 function handleClick() {
   buttonClicked = this.id;
+  sound.play();
   confrontare(buttonClicked);
 }
 
