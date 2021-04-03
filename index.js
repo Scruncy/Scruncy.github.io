@@ -110,6 +110,5 @@ function confrontare(buttonClicked) {
       var tom = new Audio('audio/va ben.ogg');
       break;
   }
-  tom.load();
   tom.play();
 }
