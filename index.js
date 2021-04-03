@@ -1,13 +1,10 @@
 
-const sound = document.querySelector('audio');
-
 for (var c = 0; c < document.querySelectorAll("button").length; c++) {
   document.querySelectorAll("button")[c].addEventListener("click", handleClick);
 }
 
 function handleClick() {
   buttonClicked = this.id;
-  sound.play();
   confrontare(buttonClicked);
 }
 
@@ -113,5 +110,6 @@ function confrontare(buttonClicked) {
       var tom = new Audio('audio/va ben.ogg');
       break;
   }
+  tom.load();
   tom.play();
 }
