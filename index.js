@@ -11,7 +11,7 @@ function handleClick() {
 function confrontare(buttonClicked) {
   switch (buttonClicked) {
     case "a":
-      var tom = new Audio('audio/bravo zozzziiiing.ogg');
+      document.getElementById("test").play();
       break;
     case "b":
       var tom = new Audio('audio/cazzo dite, cazzo ve ne frega di alberto (feat Cri).ogg');
