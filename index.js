@@ -1,17 +1,7 @@
-
-for (var c = 0; c < document.querySelectorAll("button").length; c++) {
-  document.querySelectorAll("button")[c].addEventListener("click", handleClick);
-}
-
-function handleClick() {
-  buttonClicked = this.id;
-  confrontare(buttonClicked);
-}
-
 function confrontare(buttonClicked) {
   switch (buttonClicked) {
     case "a":
-      document.getElementById("test").play();
+      document.getElementById("a").play();
       break;
     case "b":
       var tom = new Audio('audio/cazzo dite, cazzo ve ne frega di alberto (feat Cri).ogg');
