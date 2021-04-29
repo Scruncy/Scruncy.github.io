@@ -1,6 +1,7 @@
 p {
   font-size: 35px;
   font-family: 'DM Serif Display', serif;
+  margin:auto;
 }
 div {
     margin-top: 30px;
@@ -17,4 +18,5 @@ body {
 
 button {
   border-radius: 66px!important;
+  margin-top:12px;
 }
